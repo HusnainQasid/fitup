@@ -1,0 +1,45 @@
+{
+    "users": [
+        {
+            "bioData": {
+                "age": 30,
+                "fitnessGoal": "Weight Loss",
+                "gender": "Male",
+                "height": 180,
+                "weight": 75.5
+            },
+            "email": "test@example.com",
+            "name": "Test User",
+            "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+        },
+        {
+            "bioData": {
+                "age": 19,
+                "dietaryRestrictions": [
+                    "High Cholesterol Foods",
+                    "Eggs",
+                    "Caffeinated Drinks"
+                ],
+                "fitnessGoal": "Build Muscles",
+                "height": 175,
+                "timeFrame": "6 months",
+                "weight": 66
+            },
+            "email": "qasid@gmail.com",
+            "name": "Ali",
+            "password": "925b38310c5226ccb289d059a5e164828225d5b80eb26f841b7cd1282b5c5f08",
+            "registrationDate": "2025-05-24T16:46:11"
+        },
+        {
+            "bioData": {
+                "fitnessGoal": "General Fitness",
+                "gender": "Male",
+                "weight": 176
+            },
+            "email": "ali@gmail.com",
+            "name": "Ahmad",
+            "password": "eed7efaf1a0fbcb026c067bb021b76e851d2a872446abccccc089f90b66094b6",
+            "registrationDate": "2025-05-26T12:50:33"
+        }
+    ]
+}
