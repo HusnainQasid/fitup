@@ -4,3 +4,4 @@ After loging in the app will ask you a bunch of questions to understand your con
 After that the api will calculate you a monthly plan according to your goals 
 You can check which tasks are completed and which are in the to_do list 
 Your Entire data will be saved in json file and everytimr you will login it will be loaded and shown in front of you.
+Download the code and open this in Qt-Creator to run the app.
